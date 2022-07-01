@@ -1,0 +1,2 @@
+# tecnico
+tecnico CgSistema
